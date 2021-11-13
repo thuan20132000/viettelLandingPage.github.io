@@ -1,0 +1,14 @@
+.package_box__title{
+    color: #EE0033;
+    background-color: antiquewhite;
+}
+
+.package_box__image{
+    width: 220px;
+    object-fit: contain;
+    height: 220px;
+}
+
+.package_container__title{
+    color: #EE0033;
+}
